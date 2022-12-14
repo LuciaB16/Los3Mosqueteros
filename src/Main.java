@@ -15,4 +15,12 @@ public class Main {
     //Dan consejos y ayudan a cualquiera
     //Aunque a veces Angi este arrecha
     //SIempre esta ahi detras y lucia a mi izquierda
+
+
+    //Lucia hoy su casa tiene que limpiar
+    //Sus alacenas tiene que recolocar
+    //Pues los obreros no han sabido trabajar
+    //MIentras Angi con sus gatitos estará
+    //Pondra también el lavavillas despues de zampar
+    //PAra luego enviarme los programas y así aprobar
 }
